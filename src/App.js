@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import Count from './count';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
           Learn React
         </a>
         <p>hello new para added</p>
+        <Count />
       </header>
     </div>
   );
